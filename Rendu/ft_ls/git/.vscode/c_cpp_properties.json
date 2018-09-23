@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+				"${workspaceFolder}/**",
+				"/Users/juthomas/Documents/42/Projects/Rendu/ft_ls/git/includes",
+				"${workspaceFolder}/includes"
+			],
+			"browse": {
+				"limitSymbolsToIncludedHeaders": false,
+				"path": [
+					"/Users/juthomas/Documents/42/Projects/Rendu/ft_ls/git/includes/ft_ls.h"
+				]
+			},
+            "defines": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
